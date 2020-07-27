@@ -1,0 +1,9 @@
+#spring:
+#  datasource:
+#    url: jdbc:sqlserver:thin:@192.168.1.121:1433;Databasename=AIS20200410144708
+#    username: sa
+#    password: kingdee
+#  # Mybatis≈‰÷√
+#mybatis:
+#  mapperLocations: classpath:mapper/*.xml
+
